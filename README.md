@@ -1,4 +1,4 @@
-# Alexa_Workshop
+# Alexa Workshop
 
 Steps to use the files to create the skills - 
 
