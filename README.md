@@ -1,6 +1,24 @@
 # Alexa Workshop
 
-Steps to use the files to create the skills - 
+
+### Some useful links -
+
+1) [Alexa Hosted skill](https://developer.amazon.com/docs/hosted-skills/build-a-skill-end-to-end-using-an-alexa-hosted-skill.html)
+
+2) [SSML](https://developer.amazon.com/docs/custom-skills/speech-synthesis-markup-language-ssml-reference.html)
+
+3) [Use Hindi in your Alexa skill](https://developer.amazon.com/docs/custom-skills/use-hindi-in-your-alexa-skill.html)
+
+4) [SSML Hindi](https://developer.amazon.com/docs/custom-skills/speechcon-reference-interjections-hindi-in.html)
+
+5) [Handle Requests Sent by Alexa](https://developer.amazon.com/docs/custom-skills/handle-requests-sent-by-alexa.html)
+
+6) [Manage the Skill Session](https://developer.amazon.com/docs/custom-skills/manage-skill-session-and-session-attributes.html)
+
+7) [Incentives for Alexa builders](https://developer.amazon.com/en-IN/alexa/alexa-skills-kit/alexa-developer-skill-promotion)
+
+
+### Steps to use the files to create the skills - 
 
 1) Open Alexa Developer Console and create a new skill.
 
